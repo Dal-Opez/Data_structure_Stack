@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "data structure- stack"
+name = "data_structure_stack"
 version = "0.1.0"
 description = ""
 authors = ["Mikhail Polyakov PyCharm <mikhapol@bk.ru>"]
 readme = "README.md"
-packages = [{include = "data structure"}]
+packages = [{include = "data_structure"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
